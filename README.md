@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isjane
+- 👋 Hi, I’m @SubihnLee
 - 👀 I’m interested in data analysis
 - 🌱 I’m exploring python
 
